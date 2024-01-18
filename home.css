@@ -1,0 +1,15 @@
+li{
+    display: inline;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+ div{
+    display: flex;
+    align-items: center;
+    width:100%;
+    justify-content: right;
+    background-color: beige;
+ }
+ 
